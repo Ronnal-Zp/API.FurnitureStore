@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.API", "API.FurnitureStore.API\API.FurnitureStore.API.csproj", "{DDB8DED6-2357-4FE2-A393-A1BC38ECA8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.Shared", "API.FurnitureStore.Shared\API.FurnitureStore.Shared.csproj", "{5EC3A1E9-7C69-4F0E-A189-2186927422DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.FurnitureStore.Data", "API.FurnitureStore.Data\API.FurnitureStore.Data.csproj", "{6033988E-2E0B-40F0-BE2D-34971875D479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB8DED6-2357-4FE2-A393-A1BC38ECA8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB8DED6-2357-4FE2-A393-A1BC38ECA8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB8DED6-2357-4FE2-A393-A1BC38ECA8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB8DED6-2357-4FE2-A393-A1BC38ECA8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC3A1E9-7C69-4F0E-A189-2186927422DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC3A1E9-7C69-4F0E-A189-2186927422DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC3A1E9-7C69-4F0E-A189-2186927422DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC3A1E9-7C69-4F0E-A189-2186927422DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6033988E-2E0B-40F0-BE2D-34971875D479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6033988E-2E0B-40F0-BE2D-34971875D479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6033988E-2E0B-40F0-BE2D-34971875D479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6033988E-2E0B-40F0-BE2D-34971875D479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
